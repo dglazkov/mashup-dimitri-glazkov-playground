@@ -8,7 +8,7 @@
 
 
   <gm:list id="myList" template="diggItems"
-           data="http://www.digg.com/rss/index.xml" pagesize="10"/>
+           data="http://feeds.feedburner.com/DimitriGlazkov" pagesize="20"/>
 
   <gm:template id="diggItems">
     <table width="50%">
